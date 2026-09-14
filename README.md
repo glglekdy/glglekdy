@@ -1,8 +1,3 @@
-## 🙋 About Me
-- 📝 [Notion 페이지](https://www.notion.so/29e519b86e2380f5819cd56f07f3b8ed?source=copy_link)
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
