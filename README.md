@@ -23,14 +23,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nwb10102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwb10102&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=glglekdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glglekdy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nwb10102&theme=tokyonight&hide_border=true&locale=ko)
+![GitHub Streak](https://streak-stats.demolab.com?user=glglekdy&theme=tokyonight&hide_border=true&locale=ko)
 
 </div>
 
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nwb10102&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=glglekdy&color=58a6ff&style=flat-square)
 
 </div>
