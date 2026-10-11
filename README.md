@@ -43,8 +43,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-Nwb10102%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nwb10102@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-kimjihoon10102%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kimjihoon10102@naver.com)
-[![Discord](https://img.shields.io/badge/Discord-Nwb10102-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nwb10102)
+[![Discord](https://img.shields.io/badge/Discord-Nwb10102-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/glglekdy)
 
 </div>
 
