@@ -43,7 +43,7 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-Nwb10102%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nwb10102@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Nwb10102-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/glglekdy)
+[![Discord](https://img.shields.io/badge/Discord-glglekdy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/glglekdy)
 
 </div>
 
